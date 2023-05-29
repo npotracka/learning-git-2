@@ -1,0 +1,22 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: grey;
+    line-height: 1.7;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.title {
+    color:black;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.title p{
+    font-size: 16px;
+}
